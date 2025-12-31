@@ -1,0 +1,115 @@
+{
+  "balance": 177500051,
+  "cards": {
+    "1": {
+      "saldo_actual": 14531081,
+      "gastos_recientes": [
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-06"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    "2": {
+      "saldo_actual": 14531081,
+      "gastos_recientes": [
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-06"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 1,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    }
+  },
+  "pending_confirmations": {
+    "127.0.0.1:21000:1:2:1606:2025-12-08": {
+      "pump_address": "127.0.0.1:21000",
+      "expense": {
+        "company_id": 1,
+        "card_id": 2,
+        "total": 1606,
+        "date": "2025-12-08"
+      },
+      "accepted": true,
+      "timestamp": 1765236378,
+      "retry_count": 10,
+      "regional_admin_id": "11",
+      "service_station_id": "0"
+    }
+  }
+}

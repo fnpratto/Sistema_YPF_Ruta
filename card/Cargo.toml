@@ -1,0 +1,29 @@
+[package]
+name = "card"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "card"
+path = "src/lib.rs"
+
+[[bin]]
+name = "card"
+path = "src/main.rs"
+
+[dependencies]
+
+common = { path = "../common" }
+actix = "0.13.5"
+actix-rt = "2.11.0"
+tokio = { version = "1", features = [
+    "sync",
+    "macros",
+    "time",
+    "rt-multi-thread",
+] }
+serde = { version = "1.0.219", features = ["derive"] }
+serde_json = "1.0.140"
+tokio-util = "0.7.17"
+log = "0.4"
+env_logger = "0.11"

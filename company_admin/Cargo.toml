@@ -1,0 +1,19 @@
+[package]
+name = "company_admin"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix = "0.13.5"
+actix-rt = "2.11.0"
+actix_async_handler = "0.1.0"
+colored = "2.0"
+common = { path = "../common" }
+serde = { version = "1.0.219", features = ["derive"] }
+serde_json = "1.0.140"
+tokio = { version = "1.40", features = ["macros", "rt-multi-thread", "signal"] }
+tokio-util = { version = "0.7", features = ["codec"] }
+tokio-stream = { version = "0.1", features = ["io-util"] }
+
+log = "0.4"
+env_logger = "0.10"

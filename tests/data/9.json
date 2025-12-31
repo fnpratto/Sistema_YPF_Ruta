@@ -1,0 +1,100 @@
+{
+  "balance": 167864051,
+  "cards": {
+    "1": {
+      "saldo_actual": 18385981,
+      "gastos_recientes": [
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-06"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    "2": {
+      "saldo_actual": 18707181,
+      "gastos_recientes": [
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-06"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 9,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    }
+  },
+  "pending_confirmations": {}
+}

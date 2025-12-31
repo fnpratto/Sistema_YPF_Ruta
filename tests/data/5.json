@@ -1,0 +1,198 @@
+{
+  "balance": 1694845051,
+  "cards": {
+    "5": {
+      "saldo_actual": 1791211,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 5,
+          "total": 1606,
+          "date": "2025-12-04"
+        }
+      ]
+    },
+    "2": {
+      "saldo_actual": 1863491,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-06"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 2,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    "4": {
+      "saldo_actual": 19518211,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 4,
+          "total": 1606,
+          "date": "2025-12-04"
+        }
+      ]
+    },
+    "7": {
+      "saldo_actual": 1759111,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 7,
+          "total": 1606,
+          "date": "2025-12-04"
+        }
+      ]
+    },
+    "1": {
+      "saldo_actual": 18546581,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-04"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        },
+        {
+          "company_id": 5,
+          "card_id": 1,
+          "total": 1606,
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    "3": {
+      "saldo_actual": 19518211,
+      "gastos_recientes": [
+        {
+          "company_id": 5,
+          "card_id": 3,
+          "total": 1606,
+          "date": "2025-12-04"
+        }
+      ]
+    }
+  },
+  "pending_confirmations": {}
+}

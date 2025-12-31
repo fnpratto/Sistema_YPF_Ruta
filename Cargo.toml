@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "common",
+    "card",
+    "company",
+    "gas_pump",
+    "company_admin",
+    "regional_admin",
+    "tests",
+]
